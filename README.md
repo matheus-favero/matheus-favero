@@ -1,30 +1,31 @@
 # Hi, I'm Matheus! 🚀
 
-### 💻 Full-stack Developer | Computer Graphics Enthusiast
-I'm a Junior Full-stack Developer based in Brazil, focused on building scalable systems and exploring the depths of low-level graphics and engine architecture.
+### 💻 Full-stack Developer | Graphics Programming Enthusiast
+Currently working as a **Junior Full-stack Developer** at Riverkan, focusing on scalable .NET ecosystems and modern React frontends. 
 
 ---
 
-### 🛠 Tech Stack & Tools
-* **Backend:** .NET (C#), SQL Server, Node.js, PHP, Python.
-* **Frontend:** React, TypeScript, JavaScript.
-* **Low-Level & Graphics:** WebGL2, OpenGL, Vulkan.
-* **Design & UI/UX:** Figma, Blender, Aseprite.
-* **Environment:** Arch Linux (Main) | Nobara.
+### 🛠 Tech Stack
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
-### 🔭 Current Projects & Interests
-* **Engine Development:** Working on a custom rendering engine using WebGL2.
-* **Mentorship:** I enjoy sharing knowledge and guiding apprentice developers on best practices and clean code.
-* **Open Source:** Exploring computer science theory and 3D mathematics.
+### 🔧 Current Deep Dives
+* **Graphics Engineering:** Developing a custom rendering engine with **WebGL2**. Dealing with buffers, shaders, and 3D math.
+* **Architecture:** Applying **SOLID** principles and Clean Code in .NET environments.
+* **Community:** Guest speaker at **ETEC** regarding Career Growth and Web Development.
 
 ---
 
-### 📊 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-favero&show_icons=true&theme=tokyonight)
+### 🐧 System Environment
+* **OS:** Arch Linux (Main Productivity) | Nobara (Gaming/Testing)
+* **Tools:** Neovim / VS Code, Docker, Git, Figma.
 
 ---
 
-### 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/matheus-favero-amorim) | [Portfolio](SEU_LINK_AQUI)
+### 🤝 Let's connect!
+[LinkedIn](https://www.linkedin.com/in/matheus-favero-amorim)| [Portfolio](SEU_LINK)
