@@ -22,9 +22,9 @@ I'm a Junior Full-stack Developer based in Brazil, focused on building scalable 
 ---
 
 ### 📊 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-favero&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📫 Let's Connect!
-[LinkedIn](SEU_LINK_AQUI) | [Portfolio](SEU_LINK_AQUI)
+[LinkedIn](https://www.linkedin.com/in/matheus-favero-amorim) | [Portfolio](SEU_LINK_AQUI)
