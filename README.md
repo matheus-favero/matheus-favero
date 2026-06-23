@@ -28,4 +28,4 @@ Currently working as a **Junior Full-stack Developer** at Riverkan, focusing on 
 ---
 
 ### 🤝 Let's connect!
-[LinkedIn](https://www.linkedin.com/in/matheus-favero-amorim)| [Portfolio](SEU_LINK)
+[LinkedIn](https://www.linkedin.com/in/matheus-favero-amorim) | [Portfolio](SEU_LINK)
